@@ -1,0 +1,6 @@
+-- Copy weekly column from Availability to Game Tmp
+-- Also copy Double Header Data from that week to end of column
+-- Delete unused rows
+-- Sort
+-- Paste to Game Tmp 2
+-- Check OK's

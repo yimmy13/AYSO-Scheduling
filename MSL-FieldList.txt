@@ -1,0 +1,156 @@
+YSL ID	Organization	Name	Abbreviation	City
+2521	RWC 1	49er Field Red Morton East	49er East	Redwood City
+2502	RWC 1	49er Field Red Morton West	49er West	Redwood City
+2522	RWC 1	49er Field Red Morton-Turf	49er	Redwood City
+4505	Burl 63	BHS Practice Field	BHS Backfield	Burlingame
+4575	Burl 63	BR - Franklin (U12)	Franklin for BR U12-WL	Burlingame
+4574	Burl 63	BR - Franklin U14-WL	Franklin for BR U14-WL	Burlingame
+4576	Burl 63	BR - Osberg for U09/10 - WL	Osberg for BR U10-WL	Burlingame
+4772	Burl 63	BUR - San Mateo High School	SMHS	San Mateo
+4965	Burl 63	Backfield - U12B	Backfield	Burlingame
+4966	Burl 63	Backfield - U12G	Backfield	Burlingame
+4528	Burl 63	Bayside - U12B	Bayside	Burlingame
+4529	Burl 63	Bayside - U12G	Bayside	Burlingame
+4962	Burl 63	Bechet - Red Morton Park - RWC	Bechet	Redwood City
+497	RWC 1	Bechet/Griffin-Turf	Bechet/Griffin	Redwood City
+4656	Sara. 27	Beth David	Beth David	Saratoga
+3160	MV 45	Blach Intermediate School	Blach	Mountain View
+1531	Bris. 1344	Brisbane Elementary	Brisbane Elem.	Brisbane
+3581	MV 45	Bubb School	Bubb	Mountain View
+2566	MP 109	Burgess Park	Burgess	Menlo Park
+4415	SM 36	Burlingame HS Back Field	BHS Back Field	Burlingame
+4504	Burl 63	Burlingame High School Football Stadium	BHS Football Field	Burlingame
+3231	RWC 1	Canada College	Canada College	Redwood City
+1533	Bel 108	Carlmont High School	Carlmont HS	Belmont
+149	EPA  1149	Castano School	Castano	East Palo Alto
+4285	FC 62	Catamaran East	Cat East	Foster City
+220	FC 62	Catamaran Park	Catamaran	Foster City
+4284	FC 62	Catamaran West	Cat West	Foster City
+2595	LA 43	Covington	Covington	Los Altos
+124	SB 249	Crestmoor High School Lower	Crestmoor Lower	San Bruno
+132	SB 249	Crestmoor High School Upper  A	Crestmoor Up.-A	San Bruno
+123	SB 249	Crestmoor High School Upper B	Crestmoor Up.-B	San Bruno
+133	SC 107	Crestview Park	Crestview	San Carlos
+2594	MV 45	Crittenden School	Crittenden	Mountain View
+1617	PA 26	Cubberley Football Stadium Turf	Cubberley FS	Palo Alto
+4507	Burl 63	Cuernavaca Park BOYS	Cuernavaca	Burlingame
+3914	SV 44	Cupertino Middle School Track	CMS Track	Sunnyvale
+2547	Cup. 35	De Anza College Turf	De Anza	Cupertino
+4925	Cup. 35	Eaton Elementary School	Eaton Elementary	Cupertino
+4828	FC 62	Edgewater	Edgewater	Foster City
+1996	LA 43	Egan Junior High Track	Egan Track	Los Altos
+4849	PA 26	Eleanor Pardee Park	Eleanor Pardee	Palo Alto
+3977	Pac 157	Fairmont Field (St. Ignatius)	Fairmont-St. Ignatius	Pacifica
+2498	Pac 157	Fairmont West Park	Fairmont West	Pacifica
+3582	SV 44	Fairwood Park	Fairwood	Sunnyvale
+4850	SM 36	Fiesta Meadows Park	Fiesta Meadows	San Mateo
+4530	Burl 63	Franklin	Franklin	Burlingame
+3880	Burl 63	Franklin Field	Franklin	Burlingame
+498	DC 146	Gellert - Soccer Field	Gellert Park	Daly City
+1546	DC 146	Gellert U10	Gellert U10	Daly City
+4660	MV 45	Graham School Grass Field	Graham U10	Mountain View
+2499	MV 45	Graham School Turf Field	Graham	Mountain View
+4688	PA 26	Greer Park #1	Greer #1	Palo Alto
+3886	PA 26	Greer Park #2	Greer #2	Palo Alto
+4817	PA 26	Greer Park #4	Greer#4	Palo Alto
+1983	PA 26	Greer Park #5	Greer #5	Palo Alto
+3568	HMB 1099	Half Moon Bay High School- Turf 	HMB H.S.	Half Moon Bay
+4677	SC 107	Heather Elementary School	Heather	San Carlos
+496	PA 26	Henry Seale Park	Seale Park	Palo Alto
+4482	SC 107	Highlands Park Stadium	Highlands Stadium	San Carlos
+4481	SC 107	Highlands Park Turf	Highlands Park	San Carlos
+4483	SC 107	Highlands Park Turf South	Highlands South	San Carlos
+4654	MP 109	Hillview Middle School-Turf	Hillview	Menlo Park
+4461	SV 44	Hollenbeck/Challenger	Hollenbeck	Sunnyvale
+211	RWC 1	Hoover School	Hoover School	Redwood City
+5019	MV 45	Huff Elementary School Small Field	Huff Small	Mountain View
+2548	Pac 157	Ingrid B. Lacy Middle School	Ingrid Lacy	Pacifica
+3124	PA 26	JLS  Middle School 2	JLS 2	Palo Alto
+3122	MP 109	Jack W. Lyle Park	Jack Lyle	Menlo Park
+2565	MP 109	Kelly Park Turf	Kelly Park	Menlo Park
+4484	MP 109	Kelly Park Turf U10 East	Kelly Park U10 East	Menlo Park
+4917	MP 109	Kelly Park Turf U10 West	Kelly Park U10 West	Menlo Park
+4924	Cup. 35	Kennedy Middle School Field 3	Kennedy Field 3	Cupertino
+4052	Cup. 35	Kennedy Middle School Track	Kennedy Track	Cupertino
+2568	MP 109	La Entrada	La Entrada	Menlo Park
+131	Bris. 1344	Lipman	Lipman	Brisbane
+4851	Prune 256	Manzanita Park field 1	Manzanita 1	Prunedale
+139	Prune 256	Manzanita Park field 3	Manzanita 3	Prunedale
+3963	RWC 1	Marlin Park in Redwood Shores	Marlin Park	Redwood City
+1648	PA 26	Mayfield North Turf	Mayfield North	Palo Alto
+1931	PA 26	Mayfield South Turf	Mayfield South	Palo Alto
+4492	Sara. 27	McAuliffe School	McAuliffe	Saratoga
+4653	RWC 1	McGarvey Field Red Morton Turf	McGarvey	Redwood City
+138	SJ 64	Miller Jr. High School - West	Miller West	San Jose
+144	SJ 64	Miller Jr. High School Track	Miller Track	San Jose
+1980	Mill 145	Mills High School	Mills High	Millbrae
+4502	Burl 63	Murray Field (Burlingame Soccer Center)	Murray	Burlingame
+4531	Burl 63	Murray North (U10) - Water Half	Murray North	Burlingame
+4532	Burl 63	Murray South (U10) - Parking Lot Half	Murray South	Burlingame
+549	SV 44	Nimitz Elementary	Nimitz	Sunnyvale
+4533	Burl 63	North School (U14)	North	Burlingame
+531	Pac 157	Oceana High School Upper	OHSU	Pacifica
+118	Pac 157	Oddstad	Oddstad	Pacifica
+3881	Burl 63	Osberg Field	Osberg	Burlingame
+1140	SB 249	Parkside Junior High	Parkside	San Bruno
+1934	DC 146	Pollicita Middle School	Pollicita	Daly City
+151	FC 62	Port Royal	Port Royal	Foster City
+4542	FC 62	Port Royal North West	PR NW	Foster City
+4543	FC 62	Port Royal South East	PR SE	Foster City
+4658	Wood 25	Portola Valley Town Center	PV Town Center	Portola Valley
+1933	Sara. 27	Prospect High School Back Field	Prospect-Back	Saratoga
+4704	Sara. 27	Prospect High School Front Field	Prospect-Front	Saratoga
+3569	Bel 108	Ralston Middle School	Ralston	Belmont
+4534	Burl 63	Ray	Ray	Burlingame
+122	RWC 1	Red Morton Park	Red Morton	Redwood City
+136	Sara. 27	Redwood Middle School 	Redwood	Saratoga
+3911	Sara. 27	Redwood Middle School - Upper	Redwood	Saratoga
+4463	Wood 25	Rossotti's	Rossotti	Portola Valley
+2550	SV 44	San Antonio Park	San Antonio	Sunnyvale
+4462	SV 44	San Antonio Park U10	San Antonio U10	Sunnyvale
+4466	SC 107	San Carlos TBD Field	TBD SC	San Carlos
+2497	SM 36	San Mateo High School-Turf	San Mateo HS	San Mateo
+152	Pac 157	Sanchez	Sanchez	Pacifica
+4963	Burl 63	Sandpiper Elementary - RW Shores	Sandpiper	Redwood Shores
+1997	LA 43	Santa Rita Elementary School	Santa Rita Upper	Los Altos
+4964	Burl 63	Sea Cloud Park - S4 - FC	Sea Cloud S4	Foster City
+4383	FC 62	Sea Cloud S1	S1	Foster City
+4384	FC 62	Sea Cloud S2	S2	Foster City
+125	FC 62	Sea Cloud S3	S3	Foster City
+3640	FC 62	Sea Cloud S3 East	S3 East	Foster City
+3639	FC 62	Sea Cloud S3 West	S3 West	Foster City
+4287	FC 62	Sea Cloud S4	S4	Foster City
+4368	FC 62	Sea Cloud S4 CENTRAL	S4 CENTRAL	Foster City
+4544	FC 62	Sea Cloud S5	SC S5	Foster City
+4315	FC 62	Sea Cloud S6	S6	Foster City
+4302	FC 62	Sea Cloud S7 a (north)	S7a	Foster City
+4304	FC 62	Sea Cloud S7 b	S7b	Foster City
+4305	FC 62	Sea Cloud S7 c 	S7c	Foster City
+4297	FC 62	Sea Cloud S8 a (Left Field)	S8a	Foster City
+4299	FC 62	Sea Cloud S8 b	S8b	Foster City
+4300	FC 62	Sea Cloud S8 c (Right Field)	S8c	Foster City
+4657	PA 26	Seale Park	Seale	Palo Alto
+2549	MP 109	Sequoia High School	Sequoia	Redwood City
+3580	MV 45	Slater School/Park	Slater	Mountain View
+4659	LA 43	Springer School	Springer	Mountain View
+4493	SV 44	Sunnyvale Middle School Track	Sunnyvale Track	Sunnyvale
+4812	Burl 63	TBD	TBD	Burlingame
+121	RWC 1	Taft School	Taft	Redwood City
+4655	Mill 145	Taylor Middle School	Taylor	Millbrae
+3166	Pac 157	Terra Nova High School	Terra Nova	Pacifica
+4535	Burl 63	Village	Village	Burlingame
+4536	Burl 63	Village (U6G)	Village	Burlingame
+4503	Burl 63	Village Park	Village Park	Burlingame
+4506	Burl 63	Washington Park	Washington Park	Burlingame
+4537	Burl 63	Washington Park 1	Washington 1	Burlingame
+4538	Burl 63	Washington Park 2	Washington 2	Burlingame
+4539	Burl 63	Washington Park 3	Washington 3	Burlingame
+4540	Burl 63	Washington Park 4	Washington 4	Burlingame
+4541	Burl 63	Washington Park 5	Washington 5	Burlingame
+2523	SJ 64	Westmont High School	Westmont HS	Campbell
+1137	DC 146	Westmoor	Westmoor	Daly City
+1138	DC 146	Westmoor B	Westmoor B	Daly City
+3676	MV 45	Whisman School/Park	Whisman	Mountain View
+150	MP 109	Willow Oaks School	Willow Oaks	Menlo Park
+4055	Cup. 35	Wilson Park	Wilson Park	Cupertino
+1619	RWC 1	Woodside High School	Woodside High	Redwood City
